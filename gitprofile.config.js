@@ -90,7 +90,7 @@ const config = {
     {
       title: 'GroupChatPhase',
       description:
-        'Make video proposals to schedule and vote and hangout times.',
+        'Make video proposals to schedule and vote on hangout times.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://devpost.com/software/group-chat-phase/',
     },

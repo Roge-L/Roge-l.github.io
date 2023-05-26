@@ -91,21 +91,21 @@ const config = {
       title: 'GroupChatPhase',
       description:
         'Make video proposals to schedule and vote on hangout times.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://cdn.onlinewebfonts.com/svg/img_258694.png',
       link: 'https://devpost.com/software/group-chat-phase/',
     },
     {
       title: 'RobinGood',
       description:
         'Invest your money on a democratic and community-based investment platform.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://cdn.dribbble.com/users/66709/screenshots/13399592/media/abe534d0d466f3dfc974f12f3fe66fc5.jpg?compress=1&resize=400x300&vertical=top',
       link: 'https://github.com/Roge-L/RobinGood/',
     },
     {
       title: 'Throwback Shack',
       description:
         'Discover the top 10 songs of any given year.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://assets-auto.rbl.ms/f1c4708838ac319d7c31268c540edf7993b1928910d1f3807b0e1eb3fc5891bd',
       link: 'https://roge-l.github.io/throwback-shack/',
     },
   ],

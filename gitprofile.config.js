@@ -15,7 +15,6 @@ const config = {
     twitter: 'roge_lam',
     facebook: 'roger.lam.jh',
     instagram: 'roge.lam',
-    stackoverflow: '', // format: userid/username
     phone: '306 250 3681',
     email: 'roger.l.jiahao@gmail.com',
   },
@@ -25,19 +24,19 @@ const config = {
   },
   skills: [
     'TypeScript',
-    'Python',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
+    'Python',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Java',
+    'SQL',
+    'React.js',
+    'FastAPI',
+    'Django',
+    'Express',
+    'Node.js',
+    'C++',
+    'R',
   ],
   experiences: [
     {
@@ -89,34 +88,41 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'GroupChatPhase',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Make video proposals to schedule and vote and hangout times.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://devpost.com/software/group-chat-phase/',
     },
     {
-      title: 'Project Name',
+      title: 'RobinGood',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Invest your money on a democratic and community-based investment platform.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://github.com/Roge-L/RobinGood/',
+    },
+    {
+      title: 'Throwback Shack',
+      description:
+        'Discover the top 10 songs of any given year.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://roge-l.github.io/throwback-shack/',
     },
   ],
-  // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
+//   // Display blog posts from your medium or dev account. (Optional)
+//   blog: {
+//     source: 'dev', // medium | dev
+//     username: 'arifszn', // to hide blog section, keep it empty
+//     limit: 2, // How many posts to display. Max is 10.
+//   },
+//   googleAnalytics: {
+//     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+//   },
+//   // Track visitor interaction and behavior. https://www.hotjar.com
+//   hotjar: {
+//     id: '',
+//     snippetVersion: 6,
+//   },
   themeConfig: {
     defaultTheme: 'winter',
 
@@ -177,12 +183,12 @@ const config = {
     },
   },
 
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+//   // Optional Footer. Supports plain text or HTML.
+//   footer: `Made with <a 
+//       class="text-primary" href="https://github.com/arifszn/gitprofile"
+//       target="_blank"
+//       rel="noreferrer"
+//     >GitProfile</a> and ❤️`,
 };
 
 export default config;

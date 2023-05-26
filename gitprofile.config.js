@@ -11,29 +11,21 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    linkedin: 'Roge-l',
+    twitter: 'roge_lam',
+    facebook: 'roger.lam.jh',
+    instagram: 'roge.lam',
     stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    phone: '306 250 3681',
+    email: 'roger.l.jiahao@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'TypeScript',
+    'Python',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -49,18 +41,32 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'ServiceMiner',
+      position: 'Software Developer',
+      from: 'May 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://research.utoronto.ca/technology-opportunities/db/serviceminer-transforming-process-data-actionable-insights',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Canvass AI',
+      position: 'Software Engineering Intern',
+      from: 'May 2022',
+      to: 'May 2023',
+      companyLink: 'https://www.canvass.io/',
+    },
+    {
+      company: 'Mediacorp Canada Inc.'
+      position: 'Programmer',
+      from: 'May 2021,
+      to: 'May 2022',
+      companyLink: 'https://www.mediacorp.ca/',
+    },
+    {
+      company: 'Translational Research Program',
+      position: 'Webmaster',
+      from: 'Oct 2022',
+      to: 'May 2021',
+      companyLink: 'https://trp.utoronto.ca/',
     },
   ],
   /* certifications: [
@@ -73,16 +79,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Toronto - St. George Campus',
+      degree: 'Bachelor of Science',
+      from: '2019',
+      to: '2024',
     },
   ],
 

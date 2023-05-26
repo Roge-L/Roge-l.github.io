@@ -54,7 +54,7 @@ const config = {
       companyLink: 'https://www.canvass.io/',
     },
     {
-      company: 'Mediacorp Canada Inc.'
+      company: 'Mediacorp Canada Inc.',
       position: 'Programmer',
       from: 'May 2021,
       to: 'May 2022',

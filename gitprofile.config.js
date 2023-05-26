@@ -56,7 +56,7 @@ const config = {
     {
       company: 'Mediacorp Canada Inc.',
       position: 'Programmer',
-      from: 'May 2021,
+      from: 'May 2021',
       to: 'May 2022',
       companyLink: 'https://www.mediacorp.ca/',
     },

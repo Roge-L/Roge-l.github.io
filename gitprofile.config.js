@@ -20,7 +20,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/12xH4uJ0KV5bvPqBm1489X7QkjelVQDcu/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1NP_5jkuqGWQYQSLytOYz3qwnhXMS1uMh/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'TypeScript',

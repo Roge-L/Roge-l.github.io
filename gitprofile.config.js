@@ -20,7 +20,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/15cSCliCyWubP8a8M0FnvtnB7hV-9U7wn/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1ikhLaJboVq4CGTlfwxLNbyLsaIfm7HyM/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'TypeScript',
@@ -43,7 +43,7 @@ const config = {
       company: 'ServiceMiner',
       position: 'Software Developer',
       from: 'May 2023',
-      to: 'Present',
+      to: 'July 2023',
       companyLink: 'https://research.utoronto.ca/technology-opportunities/db/serviceminer-transforming-process-data-actionable-insights',
     },
     {

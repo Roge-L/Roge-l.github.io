@@ -23,20 +23,15 @@ const config = {
       'https://drive.google.com/file/d/1ikhLaJboVq4CGTlfwxLNbyLsaIfm7HyM/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'TypeScript',
-    'JavaScript',
-    'Python',
-    'HTML',
-    'CSS',
-    'Java',
+    'Usability Testing',
+    'Market Research',
+    'Figma',
+    'Git',
+    'Agile Development',
     'SQL',
-    'React.js',
-    'FastAPI',
-    'Django',
-    'Express',
-    'Node.js',
-    'C++',
-    'R',
+    'Digital Marketing',
+    'Python',
+    'R'
   ],
   experiences: [
     {
@@ -61,6 +56,13 @@ const config = {
       companyLink: 'https://www.mediacorp.ca/',
     },
     {
+      company: 'Mei's Bakery',
+      position: 'Technical Product Manager',
+      from: 'May 2021',
+      to: 'Sept 2021',
+      companyLink: 'https://www.figma.com/file/BYgFvpG63wI3a3CmLXfeW4/Mei's-Bakery-Mobile-Wireframe',
+    },
+    {
       company: 'Translational Research Program',
       position: 'Webmaster',
       from: 'Oct 2022',
@@ -68,14 +70,20 @@ const config = {
       companyLink: 'https://trp.utoronto.ca/',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Meta Certified Digital Marketing Associate',
+      body: 'The Meta Certified Digital Marketing Associate credential is awarded to entry-level digital marketers who have foundational proficiency in the skills, tools, advertising policies and best practices required to buy ads on the Facebook App, Instagram and Messenger.',
+      year: 'July 2023',
+      link: 'https://www.credly.com/badges/1649f148-6ce8-4246-bbfa-4809f4ad234d/public_url'
     },
-  ], */
+    {
+      name: 'Software Processes and Agile Practices',
+      body: 'Software Processes and Agile Practices',
+      year: 'August 2023',
+      link: 'https://www.credly.com/badges/1649f148-6ce8-4246-bbfa-4809f4ad234d/public_url'
+    },
+  ],
   education: [
     {
       institution: 'University of Toronto - St. George Campus',

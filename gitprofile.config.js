@@ -56,7 +56,7 @@ const config = {
       companyLink: 'https://www.mediacorp.ca/',
     },
     {
-      company: 'Mei's Bakery',
+      company: 'Mei\'s Bakery',
       position: 'Technical Product Manager',
       from: 'May 2021',
       to: 'Sept 2021',

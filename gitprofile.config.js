@@ -60,7 +60,7 @@ const config = {
       position: 'Technical Product Manager',
       from: 'May 2021',
       to: 'Sept 2021',
-      companyLink: 'https://www.figma.com/file/BYgFvpG63wI3a3CmLXfeW4/Mei's-Bakery-Mobile-Wireframe',
+      companyLink: 'https://www.figma.com/file/BYgFvpG63wI3a3CmLXfeW4/Mei\'s-Bakery-Mobile-Wireframe',
     },
     {
       company: 'Translational Research Program',

@@ -81,7 +81,7 @@ const config = {
       name: 'Software Processes and Agile Practices',
       body: 'Software Processes and Agile Practices',
       year: 'August 2023',
-      link: 'https://www.credly.com/badges/1649f148-6ce8-4246-bbfa-4809f4ad234d/public_url'
+      link: 'https://coursera.org/share/3522ae5cfddc9f9b86a65d2e642bdc4d'
     },
   ],
   education: [

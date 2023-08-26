@@ -20,7 +20,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1yHoKlbrgVQpzL4MwZLn5SDDTGWpTpaT5/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1KrlJVYDG5Ot-cqK092taJ0zWauISif-f/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Usability Testing',
@@ -73,13 +73,13 @@ const config = {
   certifications: [
     {
       name: 'Meta Certified Digital Marketing Associate',
-      body: 'The Meta Certified Digital Marketing Associate credential is awarded to entry-level digital marketers who have foundational proficiency in the skills, tools, advertising policies and best practices required to buy ads on the Facebook App, Instagram and Messenger.',
+      body: 'Foundational proficiency in the skills, tools, advertising policies and best practices required to buy ads on the Facebook App, Instagram and Messenger.',
       year: 'July 2023',
       link: 'https://www.credly.com/badges/1649f148-6ce8-4246-bbfa-4809f4ad234d/public_url'
     },
     {
       name: 'Software Processes and Agile Practices',
-      body: 'Software Processes and Agile Practices',
+      body: 'Learn and distinguish process models used in Software Development and apply the fundamentals of Agile software development and management practices.',
       year: 'August 2023',
       link: 'https://coursera.org/share/3522ae5cfddc9f9b86a65d2e642bdc4d'
     },

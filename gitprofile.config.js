@@ -20,7 +20,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1TTm5CidNuh1l5Pw_e1o5Br8x-3iTS0Wg/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1ZnkMgcqx1VvJaMC_WX893GysMW6WqWIo/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Usability Testing',
@@ -56,13 +56,6 @@ const config = {
       companyLink: 'https://www.mediacorp.ca/',
     },
     {
-      company: 'Mei\'s Bakery',
-      position: 'Technical Product Manager',
-      from: 'May 2021',
-      to: 'Sept 2021',
-      companyLink: 'https://www.figma.com/file/BYgFvpG63wI3a3CmLXfeW4/Mei\'s-Bakery-Mobile-Wireframe',
-    },
-    {
       company: 'Translational Research Program',
       position: 'Webmaster',
       from: 'Oct 2022',
@@ -96,24 +89,24 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'GroupChatPhase',
+      title: 'LSM Key-Value Store',
       description:
-        'Make video proposals to schedule and vote on hangout times.',
-      imageUrl: 'https://cdn.onlinewebfonts.com/svg/img_258694.png',
-      link: 'https://devpost.com/software/group-chat-phase/',
+        'Log-structured merge-tree key-value store with Bloom filters.',
+      imageUrl: 'https://static.vecteezy.com/system/resources/thumbnails/004/657/673/small/database-line-style-icon-free-vector.jpg',
+      link: 'https://github.com/Roge-L/lsm-kv-store',
     },
     {
-      title: 'RobinGood',
+      title: 'Extent-Based File System',
       description:
-        'Invest your money on a democratic and community-based investment platform.',
-      imageUrl: 'https://cdn.dribbble.com/users/66709/screenshots/13399592/media/abe534d0d466f3dfc974f12f3fe66fc5.jpg?compress=1&resize=400x300&vertical=top',
-      link: 'https://github.com/Roge-L/RobinGood/',
+        'Extent-based file system using first-fit data allocation.',
+      imageUrl: 'https://www.researchgate.net/profile/Amar-More-2/publication/281446266/figure/fig2/AS:284599952396289@1444865324121/Extent-tree-for-sparse-file-in-EXT4-file-system.png',
+      link: 'https://github.com/Roge-L/extent-based-fs',
     },
     {
       title: 'Throwback Shack',
       description:
         'Discover the top 10 songs of any given year.',
-      imageUrl: 'https://assets-auto.rbl.ms/f1c4708838ac319d7c31268c540edf7993b1928910d1f3807b0e1eb3fc5891bd',
+      imageUrl: 'https://www.usmagazine.com/wp-content/uploads/2021/01/The-Weeknd-Save-Your-Tears-Plastic-Surgery-Look-Is-Prosthetics-Feature.jpg?w=700&quality=86&strip=all',
       link: 'https://roge-l.github.io/throwback-shack/',
     },
   ],
